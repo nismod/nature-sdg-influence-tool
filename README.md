@@ -1,5 +1,7 @@
 # Nature SDG influence tool
 
+[![DOI](https://zenodo.org/badge/373804035.svg)](https://zenodo.org/badge/latestdoi/373804035)
+
 This tool provides a framework to identify the broad range of influences of
 different built infrastructure sectors and natural ecosystems and their services
 across various targets of the Sustainable Development Goals.
